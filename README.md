@@ -12,3 +12,4 @@ Note - You can view this reports only in Power BI desktop . Download and view in
 7) Load 2 CSV files and one Excel workbook, and use this to report on films. - Go Akira!
 8) Use a matrix to compare the number of websites by country and type. - Websites
 9) Compare Oscars won by genre and certificate for films using a matrix and conditional Formatting. - Films in Technicolor
+10) Count the number of world events for each country and year. - No of Events per year
