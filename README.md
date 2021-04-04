@@ -10,3 +10,4 @@ Note - You can view this reports only in Power BI desktop . Download and view in
 5) Create a report listing Game of Thrones episodes, importing two tables. - GOT it!
 6) Create a playlist from songs list and count songs per year on line chart. - Count of Songs per Year
 7) Load 2 CSV files and one Excel workbook, and use this to report on films. - Go Akira!
+8) Use a matrix to compare the number of websites by country and type.
