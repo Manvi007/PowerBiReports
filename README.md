@@ -13,3 +13,5 @@ Note - You can view this reports only in Power BI desktop . Download and view in
 8) Use a matrix to compare the number of websites by country and type. - Websites
 9) Compare Oscars won by genre and certificate for films using a matrix and conditional Formatting. - Films in Technicolor
 10) Count the number of world events for each country and year. - No of Events per year
+11) Load an Excel workbook of Disney princesses, and create a table from this. - Rating
+12) Create relationships between tables using two methods. - Cultural Connections
