@@ -15,4 +15,5 @@ Note - You can view this reports only in Power BI desktop . Download and view in
 10) Count the number of world events for each country and year. - No of Events per year
 11) Load an Excel workbook of Disney princesses, and create a table from this. - Rating
 12) Use Query Editor to import and tidy up a list of the richest people. - Average of Billions
+13) Use Query Editor to rename and split columns in a Game of Thrones worksheet. - Danny Boy
 
