@@ -17,4 +17,5 @@ Note - You can view this reports only in Power BI desktop . Download and view in
 12) Use Query Editor to import and tidy up a list of the richest people. - Average of Billions
 13) Use Query Editor to rename and split columns in a Game of Thrones worksheet. - Danny Boy
 14) Use Query Editor to load and tidy up a list of FTSE share prices. - Equity
+15) Use Query Editor to cleanse a list of imported top websites. - Google Rules
 
