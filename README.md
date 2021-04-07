@@ -19,4 +19,5 @@ Note - You can view this reports only in Power BI desktop . Download and view in
 14) Use Query Editor to load and tidy up a list of FTSE share prices. - Equity
 15) Use Query Editor to cleanse a list of imported top websites. - Google Rules
 16) Use Query Editor to remove, transform and add columns to a tall buildings list. - Skyscrapers
+17) Use the query editor to transform a rubbish data file into something useful. - Pokemons
 
