@@ -22,4 +22,5 @@ Note - You can view this reports only in Power BI desktop . Download and view in
 17) Use the query editor to transform a rubbish data file into something useful. - Pokemons
 18) Load some pivoted forecast data, unpivot it . - Values by Month
 19) Changing between left outer, full outer and inner joins. - Dino Diets
+20) Apply a filter and a slicer by continent to a list of most-visited websites. - Matrix of Websites
 
