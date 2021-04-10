@@ -23,4 +23,5 @@ Note - You can view this reports only in Power BI desktop . Download and view in
 18) Load some pivoted forecast data, unpivot it . - Values by Month
 19) Changing between left outer, full outer and inner joins. - Dino Diets
 20) Apply a filter and a slicer by continent to a list of most-visited websites. - Matrix of Websites
+21) Create a slicer and chart to choose which whale sightings dataset you want to see. - Species Sightings
 
