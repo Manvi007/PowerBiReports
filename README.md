@@ -21,4 +21,5 @@ Note - You can view this reports only in Power BI desktop . Download and view in
 16) Use Query Editor to remove, transform and add columns to a tall buildings list. - Skyscrapers
 17) Use the query editor to transform a rubbish data file into something useful. - Pokemons
 18) Load some pivoted forecast data, unpivot it . - Values by Month
+19) Changing between left outer, full outer and inner joins. - Dino Diets
 
