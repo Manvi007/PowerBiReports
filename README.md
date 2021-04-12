@@ -26,4 +26,9 @@ Note - You can view this reports only in Power BI desktop . Download and view in
 21) Create a slicer and chart to choose which whale sightings dataset you want to see. - Species Sightings
 22) Allow a user to choose pizzas by calorie count and type using slicers. - List of Pizzas
 23) Apply a page filter to a list of films, then create a slicer by category. - List of Films
+24) Import skyscraper data, creating a new column and showing this in a chart controlled by a slicer. - Skyscrapers
+25) Create date and normal slicers on one page to affect visuals on other pages. - Sync Slicers
+26) Create a date, numeric, dropdown and horizontal slicer on a report - Slicer Types
+27) Create linked slicers to show a chart of crime statistics. - No of Offences
+28) Use hidden synced slicers to filter all pages with a single slicer. - Synchronised Slicing
 
