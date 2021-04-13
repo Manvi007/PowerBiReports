@@ -31,4 +31,5 @@ Note - You can view this reports only in Power BI desktop . Download and view in
 26) Create a date, numeric, dropdown and horizontal slicer on a report - Slicer Types
 27) Create linked slicers to show a chart of crime statistics. - No of Offences
 28) Use hidden synced slicers to filter all pages with a single slicer. - Synchronised Slicing
+29) Enable drill-through for a report to show a breakdown of tests taken. - All Tests
 
