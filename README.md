@@ -32,4 +32,8 @@ Note - You can view this reports only in Power BI desktop . Download and view in
 27) Create linked slicers to show a chart of crime statistics. - No of Offences
 28) Use hidden synced slicers to filter all pages with a single slicer. - Synchronised Slicing
 29) Enable drill-through for a report to show a breakdown of tests taken. - All Tests
+30) Add a button using a bookmark to clear any slicer filters. - Waterfall Charts
+31) Bookmarks can be used to create the illusion of having multiple charts.
+32) Confusing visual? No problem use bookmarks to create helpful pop ups.
+33) Clicking between pages breaking immersion? No problem connect pages using bookmark arrows.
 
