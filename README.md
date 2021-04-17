@@ -35,5 +35,5 @@ Note - You can view this reports only in Power BI desktop . Download and view in
 30) Add a button using a bookmark to clear any slicer filters. - Waterfall Charts
 31) Bookmarks can be used to create the illusion of having multiple charts. - Dynamic Charts
 32) Confusing visual? No problem use bookmarks to create helpful pop ups. - Pop up and say hi!
-33) Clicking between pages breaking immersion? No problem connect pages using bookmark arrows.
+33) Clicking between pages breaking immersion? No problem connect pages using bookmark arrows. - Real Page Turner
 
