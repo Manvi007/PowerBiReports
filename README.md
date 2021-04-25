@@ -37,7 +37,7 @@ Note - You can view this reports only in Power BI desktop . Download and view in
 32) Confusing visual? No problem use bookmarks to create helpful pop ups. - Pop up and say hi!
 33) Clicking between pages breaking immersion? No problem connect pages using bookmark arrows. - Real Page Turner
 34) Create a donut chart of population data, and morph this into a tree chart. - Donuts and Trees
-35) Create a column chart of record sales, and drill-down to a pie chart.
+35) Create a column chart of record sales, and drill-down to a pie chart. - Linked Charts
 36) Compare the number of Abba songs released by year using a column chart.
 37) Use grouping in charts to show viewing figures by genre for BBC1.
 38) Compare Pizza Express pizza calories using pie and doughnut charts.
