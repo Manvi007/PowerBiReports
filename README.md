@@ -47,4 +47,11 @@ Note - You can view this reports only in Power BI desktop . Download and view in
 42) Analyse 2018 crime figures for the Manchester area using various visuals. - Local Crimes Reported by 2018
 43) Create a bubble chart comparing two sets of numbers, and play it over time to show changes. - Just Bubbles
 44) Create a stacked column chart with drill-down, a KPI, a gauge - and more. - Beginning to Love PBD
+45) Create a map showing passenger numbers for UK stations, with drill-down.
+46) Create a map comparing house price sales for expensive houses across the UK.
+47) Compare sales of goods across the UK for large shopping centres.
+48) Create a map to show sales by town for selected regions.
+49) Use ArcGIS to generate a heat map showing train passengers in the UK.
+50) Analyse Brexit voting patterns for the countries of the UK, using Electoral Commission data.
+
 
