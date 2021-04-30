@@ -42,7 +42,7 @@ Note - You can view this reports only in Power BI desktop . Download and view in
 37) Use grouping in charts to show viewing figures by genre for BBC1. - Demelza for PM
 38) Compare Pizza Express pizza calories using pie and doughnut charts. - Menu
 39) Show a chart comparing films when you click on each genre in a tree map. - Films
-40) Compare the heights of skyscrapers by country and city, and create a KPI.
+40) Compare the heights of skyscrapers by country and city, and create a KPI. - Big Beasts
 41) Compare skills test results using a waterfall chart with breakdown.
 42) Analyse 2018 crime figures for the Manchester area using various visuals.
 43) Create a bubble chart comparing two sets of numbers, and play it over time to show changes.
