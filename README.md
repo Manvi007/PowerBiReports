@@ -46,4 +46,5 @@ Note - You can view this reports only in Power BI desktop . Download and view in
 41) Compare skills test results using a waterfall chart with breakdown. - Waterfall Report
 42) Analyse 2018 crime figures for the Manchester area using various visuals. - Local Crimes Reported by 2018
 43) Create a bubble chart comparing two sets of numbers, and play it over time to show changes. - Just Bubbles
+44) Create a stacked column chart with drill-down, a KPI, a gauge - and more. - Beginning to Love PBD
 
