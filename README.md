@@ -58,7 +58,7 @@ Note - You can view this reports only in Power BI desktop . Download and view in
 53) Use calculated columns to show a film's length in text format. - Film Length
 54) Calculate average floor areas for tall building data using calculated columns. - Office & Floor Plus Columns
 55) Use the DATEDIFF and IF functions to analyse the length of GoT series. - Series Breakdown
-56) Add lots of calculated columns to show a matrix summarising house prices.
+56) Add lots of calculated columns to show a matrix summarising house prices. - Property by Type
 57) Use the RELATED function to combine fields from four tables.
 58) Show the average Brexit REMAIN votes by creating a couple of simple measures.
 59) Omit certain columns from a matrix, using CALCULATE, VALUES and FILTER.
