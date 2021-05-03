@@ -59,7 +59,7 @@ Note - You can view this reports only in Power BI desktop . Download and view in
 54) Calculate average floor areas for tall building data using calculated columns. - Office & Floor Plus Columns
 55) Use the DATEDIFF and IF functions to analyse the length of GoT series. - Series Breakdown
 56) Add lots of calculated columns to show a matrix summarising house prices. - Property by Type
-57) Use the RELATED function to combine fields from four tables.
+57) Use the RELATED function to combine fields from four tables. - Events per Category&Continent
 58) Show the average Brexit REMAIN votes by creating a couple of simple measures.
 59) Omit certain columns from a matrix, using CALCULATE, VALUES and FILTER.
 60) Show ratios for a table of premier league results, using the CALCULATE function.
