@@ -57,7 +57,7 @@ Note - You can view this reports only in Power BI desktop . Download and view in
 52) Create new columns to group skyscraper data in new and unsurprising ways!. - Count of Building by Country
 53) Use calculated columns to show a film's length in text format. - Film Length
 54) Calculate average floor areas for tall building data using calculated columns. - Office & Floor Plus Columns
-55) Use the DATEDIFF and IF functions to analyse the length of GoT series.
+55) Use the DATEDIFF and IF functions to analyse the length of GoT series. - Series Breakdown
 56) Add lots of calculated columns to show a matrix summarising house prices.
 57) Use the RELATED function to combine fields from four tables.
 58) Show the average Brexit REMAIN votes by creating a couple of simple measures.
