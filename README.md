@@ -54,8 +54,8 @@ Note - You can view this reports only in Power BI desktop . Download and view in
 49) Use ArcGIS to generate a heat map showing train passengers in the UK. - London Calling
 50) Analyse Brexit voting patterns for the countries of the UK, using Electoral Commission data. - Leave Voters
 51) Create two simple calculated columns for film data (for Oscars and profitability). - Film Stats
-52) Create new columns to group skyscraper data in new and unsurprising ways!.
-53) Use calculated columns to show a film's length in text format.
+52) Create new columns to group skyscraper data in new and unsurprising ways!. - Count of Building by Country
+53) Use calculated columns to show a film's length in text format. - Film Length
 54) Calculate average floor areas for tall building data using calculated columns.
 55) Use the DATEDIFF and IF functions to analyse the length of GoT series.
 56) Add lots of calculated columns to show a matrix summarising house prices.
