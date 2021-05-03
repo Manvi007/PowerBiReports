@@ -56,7 +56,7 @@ Note - You can view this reports only in Power BI desktop . Download and view in
 51) Create two simple calculated columns for film data (for Oscars and profitability). - Film Stats
 52) Create new columns to group skyscraper data in new and unsurprising ways!. - Count of Building by Country
 53) Use calculated columns to show a film's length in text format. - Film Length
-54) Calculate average floor areas for tall building data using calculated columns.
+54) Calculate average floor areas for tall building data using calculated columns. - Office & Floor Plus Columns
 55) Use the DATEDIFF and IF functions to analyse the length of GoT series.
 56) Add lots of calculated columns to show a matrix summarising house prices.
 57) Use the RELATED function to combine fields from four tables.
