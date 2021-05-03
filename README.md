@@ -53,5 +53,15 @@ Note - You can view this reports only in Power BI desktop . Download and view in
 48) Create a map to show sales by town for selected regions. - Quantity by UK Town and Region Name
 49) Use ArcGIS to generate a heat map showing train passengers in the UK. - London Calling
 50) Analyse Brexit voting patterns for the countries of the UK, using Electoral Commission data. - Leave Voters
+51) Create two simple calculated columns for film data (for Oscars and profitability). - Film Stats
+52) Create new columns to group skyscraper data in new and unsurprising ways!.
+53) Use calculated columns to show a film's length in text format.
+54) Calculate average floor areas for tall building data using calculated columns.
+55) Use the DATEDIFF and IF functions to analyse the length of GoT series.
+56) Add lots of calculated columns to show a matrix summarising house prices.
+57) Use the RELATED function to combine fields from four tables.
+58) Show the average Brexit REMAIN votes by creating a couple of simple measures.
+59) Omit certain columns from a matrix, using CALCULATE, VALUES and FILTER.
+60) Show ratios for a table of premier league results, using the CALCULATE function.
 
 
