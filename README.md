@@ -61,7 +61,7 @@ Note - You can view this reports only in Power BI desktop . Download and view in
 56) Add lots of calculated columns to show a matrix summarising house prices. - Property by Type
 57) Use the RELATED function to combine fields from four tables. - Events per Category&Continent
 58) Show the average Brexit REMAIN votes by creating a couple of simple measures. - Sum Measure Cols
-59) Omit certain columns from a matrix, using CALCULATE, VALUES and FILTER.
+59) Omit certain columns from a matrix, using CALCULATE, VALUES and FILTER. - Dax Fun
 60) Show ratios for a table of premier league results, using the CALCULATE function.
 
 
