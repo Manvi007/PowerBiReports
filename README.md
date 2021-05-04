@@ -63,7 +63,7 @@ Note - You can view this reports only in Power BI desktop . Download and view in
 58) Show the average Brexit REMAIN votes by creating a couple of simple measures. - Sum Measure Cols
 59) Omit certain columns from a matrix, using CALCULATE, VALUES and FILTER. - Dax Fun
 60) Show ratios for a table of premier league results, using the CALCULATE function. - Nationality Measure
-61) Calculate the ratio between normal and multi-legged animals, using variables, CALCULATE and VALUES
+61) Calculate the ratio between normal and multi-legged animals, using variables, CALCULATE and VALUES - Variable Fun
 62) Create a calculated column in a calendar table dividing the year into thirds.
 63) Add two calendars to a data model to compare two different expense dates.
 
