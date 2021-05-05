@@ -69,7 +69,7 @@ Note - You can view this reports only in Power BI desktop . Download and view in
 64) Show cumulative sales for each quarter, and figures for the previous quarter. - Tinder
 65) Show the cumulative proportion of the previous month's total sales, using various date functions. - Monthly Calendar Measures
 66) Roles can be used to change what data can be seen within a report. Use these to restrict which house information a user sees. - View as Roles
-67) Use Power BI import option to connect and import entire folder of contents.
+67) Use Power BI import option to connect and import entire folder of contents. - Average RunTime by Genre
 68) Unpivot an excel pivot table to make it useable within a Power BI Data model.
 69) Use the Merge option to combine two tables in Power BI into one.
 70) Switch the Query editor file target from an Excel sheet to a SQL database.
