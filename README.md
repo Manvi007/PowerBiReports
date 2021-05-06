@@ -73,6 +73,12 @@ Note - You can view this reports only in Power BI desktop . Download and view in
 68) Unpivot an excel pivot table to make it useable within a Power BI Data model. - More Grades
 69) Use the Merge option to combine two tables in Power BI into one. - Union Tables
 70) Switch the Query editor file target from an Excel sheet to a SQL database. - Outdated Movies
+71) Use drillthrough to move between to pages, filtering the landing page. - Drillthrough Habitat
+72) Make a more complex bookmark report by using DATA and SELECTED VISUAL modes. - Game of screen time
+73) Use images and bookmarks to allow navigation between pages.
+74) Mix up your report by using an image slicer instead of the traditional slicer.
+75) The Synoptic panel can be used to create interactive images or even maps!.
+76) Upgrade the basic tooltip feature by creating a tooltip page to use instead.
 
 
 
