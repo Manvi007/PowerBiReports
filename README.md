@@ -78,7 +78,7 @@ Note - You can view this reports only in Power BI desktop . Download and view in
 73) Use images and bookmarks to allow navigation between pages. - Pokemon Drillthrough
 74) Mix up your report by using an image slicer instead of the traditional slicer. - Sliced Families
 75) The Synoptic panel can be used to create interactive images or even maps!. - Treasure Hunting
-76) Upgrade the basic tooltip feature by creating a tooltip page to use instead.
+76) Upgrade the basic tooltip feature by creating a tooltip page to use instead. - Tooltip On
 
 
 
