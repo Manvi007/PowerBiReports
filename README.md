@@ -79,6 +79,11 @@ Note - You can view this reports only in Power BI desktop . Download and view in
 74) Mix up your report by using an image slicer instead of the traditional slicer. - Sliced Families
 75) The Synoptic panel can be used to create interactive images or even maps!. - Treasure Hunting
 76) Upgrade the basic tooltip feature by creating a tooltip page to use instead. - Tooltip On
+77) Create a multi option list for users to choose how to filter their data modeln - Dropping Usual Treatment
+78) Using parameters change the connection string used within the M language - ListOfValues Parameter File_Name
+79) Create a parameter and apply it to crime statistics to filter the data. - Parameter with measure 
+80) Create a parameter which controls which song playlist you load - Parametrised Playlist
+81) Use parameters to filter data before it enters the data model. - Parametrised Genres
 
 
 
