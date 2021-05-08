@@ -87,8 +87,8 @@ Note - You can view this reports only in Power BI desktop . Download and view in
 82) Using a quick measure list out all the filters applied to a given page. - Dynamic Titles Quick Measure
 83) Use quick measures to reference totals which either ignore or take into account filters. - Total Category Quick Measure
 84) Using a quick measure it is possible to apply a filter to a single column within a table. - Division Quick Measure
-85) Change the colours available by default within a report.
-86) Themes can affect more than just colours. Create on which defaults the size and font for all visuals.
+85) Change the colours available by default within a report. - Collecting C colors
+86) Themes can affect more than just colours. Create on which defaults the size and font for all visuals. - Super Sizing
 87) Try optimising a premade report for use with the Power BI mobile app.
 88) Save time by creating a template which has premade visuals ready for data.
 89) Create a tooltip page showing how gauges work, and assign it to a visual header.
