@@ -89,7 +89,7 @@ Note - You can view this reports only in Power BI desktop . Download and view in
 84) Using a quick measure it is possible to apply a filter to a single column within a table. - Division Quick Measure
 85) Change the colours available by default within a report. - Collecting C colors
 86) Themes can affect more than just colours. Create on which defaults the size and font for all visuals. - Super Sizing
-87) Try optimising a premade report for use with the Power BI mobile app.
+87) Try optimising a premade report for use with the Power BI mobile app. - Mobile Report
 88) Save time by creating a template which has premade visuals ready for data.
 89) Create a tooltip page showing how gauges work, and assign it to a visual header.
 90) Show the books for an author in a tooltip when you hover over their name.
