@@ -84,6 +84,15 @@ Note - You can view this reports only in Power BI desktop . Download and view in
 79) Create a parameter and apply it to crime statistics to filter the data. - Parameter with measure 
 80) Create a parameter which controls which song playlist you load - Parametrised Playlist
 81) Use parameters to filter data before it enters the data model. - Parametrised Genres
+82) Using a quick measure list out all the filters applied to a given page. - Dynamic Titles Quick Measure
+83) Use quick measures to reference totals which either ignore or take into account filters. - Total Category Quick Measure
+84) Using a quick measure it is possible to apply a filter to a single column within a table. - Division Quick Measure
+85) Change the colours available by default within a report.
+86) Themes can affect more than just colours. Create on which defaults the size and font for all visuals.
+87) Try optimising a premade report for use with the Power BI mobile app.
+88) Save time by creating a template which has premade visuals ready for data.
+89) Create a tooltip page showing how gauges work, and assign it to a visual header.
+90) Show the books for an author in a tooltip when you hover over their name.
 
 
 
