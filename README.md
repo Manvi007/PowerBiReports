@@ -93,3 +93,7 @@ Note - You can view this reports only in Power BI desktop . Download and view in
 88) Save time by creating a template which has premade visuals ready for data. - Temparamental Templates
 89) Create a tooltip page showing how gauges work, and assign it to a visual header. - Love Island
 90) Show the books for an author in a tooltip when you hover over their name. - Bookies
+91) Divide one column by another, avoiding any divide-by-zero errors. - DAX1
+92) Create a measure in a card to give a Brexit report a dynamic title. - Vote Breakdown
+93) Create a variety of measures to report on film data. - FilmsDAX
+94) Create two new calculated columns, one using context transition and one not. - 
